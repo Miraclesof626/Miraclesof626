@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+In order to access the character selection tool, please go to
+[miraclesof626.github.io/miraclesof626
+](https://miraclesof626.github.io/Miraclesof626/)
+
 <!--
 **Miraclesof626/Miraclesof626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
